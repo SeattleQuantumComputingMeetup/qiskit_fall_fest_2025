@@ -1,4 +1,4 @@
-<img src="images/qiskit_fall_fest_2025_badge_pink.png" alt="drawing" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/100_Years_Quantum_Mechanics.png" alt="drawing" width="130"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/IBM Quantum Logo.png" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="sqcm_logo.JPG" alt="drawing" width="80"/> 
+<img src="images/qiskit_fall_fest_2025_badge_pink.png" alt="drawing" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/100_Years_Quantum_Mechanics.png" alt="drawing" width="130"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/IBM Quantum Logo.png" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sqcm_logo.JPG" alt="drawing" width="80"/> 
 
 <!-- <img src="images/Qiskit_03_purple.png" alt="drawing" width="100"/><img src="images/Atom_01_black.png" alt="drawing" width="100"/><img src="images/Entanglement.png" alt="drawing" width="200"/> -->
 
