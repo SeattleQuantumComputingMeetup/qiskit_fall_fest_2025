@@ -1,6 +1,6 @@
-<img src="images/qiskit_fall_fest_2025_badge_pink.png" alt="drawing" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="100_Years_Quantum_Mechanics.png" alt="drawing" width="130"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="IBM Quantum Logo.png" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="sqcm_logo.JPG" alt="drawing" width="80"/> 
+<img src="images/qiskit_fall_fest_2025_badge_pink.png" alt="drawing" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/100_Years_Quantum_Mechanics.png" alt="drawing" width="130"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/IBM Quantum Logo.png" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="sqcm_logo.JPG" alt="drawing" width="80"/> 
 
-<!-- <img src="Qiskit_03_purple.png" alt="drawing" width="100"/><img src="Atom_01_black.png" alt="drawing" width="100"/><img src="Entanglement.png" alt="drawing" width="200"/> -->
+<!-- <img src="images/Qiskit_03_purple.png" alt="drawing" width="100"/><img src="images/Atom_01_black.png" alt="drawing" width="100"/><img src="images/Entanglement.png" alt="drawing" width="200"/> -->
 
 # Qiskit Fall Fest 2025 - 100 Years of Quantum Mechanics
 Sponsored by IBM Quantum, Implemented by the Seattle Quantum Computing Meetup
@@ -28,4 +28,4 @@ We have Qiskit Coding Challenge Jupyter Notebooks and Hackathon Prompts for you 
 | Certificate of Excellence | TBD |
 
 
-<img src="FF25_100_years_Quantum.png" alt="drawing" width="1000"/>
+<img src="images/FF25_100_years_Quantum.png" alt="drawing" width="1000"/>
