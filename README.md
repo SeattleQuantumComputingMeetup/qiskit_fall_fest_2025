@@ -11,7 +11,7 @@ Sponsored by IBM Quantum, Implemented by the Seattle Quantum Computing Meetup
 | :------------------------ | :---------- | :----------------------------------------------------------- | :---------------------------------- |
 | Sep 30 | 6-7:30pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/310961270/?eventOrigin=group_upcoming_events" target="_blank">Fall Fest 2025 Prep - Qiskit and Quantum Computing 101</a> | Northgate Branch, Seattle Public Library |
 | Oct 4 | 12:30-2:00pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/310960237/?eventOrigin=group_upcoming_events" target="_blank">Qiskit Coding Challenges, Hackathon Prompts, Game Day</a> | Montlake Branch, Seattle Public Library |
-| Oct X (TBD) | ~7:00pm PT | Speaker on Quantum Computing | UW Campus |
+| Oct X (TBD) | ~7:00pm PT | Speaker on Quantum Computing | UW Campus (potentially, TBD) |
 | Nov 3 | 10:00 am PT | Deadline for Coding Challenges and Hackathon Work | submit online | 
 | By Dec 1 | 11:59 pm PT | Certificates of Participation and Excellence Will Be Awarded | delivered online | 
 
@@ -24,8 +24,8 @@ We have Qiskit Coding Challenge Jupyter Notebooks and Hackathon Prompts for you 
 
 | Certificate Type | Criteria for Awarding | 
 | :---------------------- |:----------------------------|
-| Certificate of Participation | Submit a completed Qiskit Beginner Notebook by Nov. 3, 10am PT | 
-| Certificate of Excellence | TBD |
+| Certificate of Participation | Submit a completed Qiskit Beginner Notebook by Nov. 3, 10am PT or attend the FF Kickoff in-person on 10/4 at the Montlake Branch of the SPL| 
+| Certificate of Excellence | Submit the Qiskit Beginner and Intermediate Notebooks or Submit work on one of the Hackathon prompts by Nov. 3, 10am PT |
 
 
 <img src="images/FF25_100_years_Quantum.png" alt="drawing" width="1000"/>
