@@ -1,0 +1,11 @@
+We will have 4 hackathon prompts:
+
+1. Cleveland Clinic, protein structure prediction
+
+2. Rensselaer Polytechnic Institute - quantum key distribution (QKD)
+
+3. Mila/Quandela/Autorite des Marches Financiers - 
+
+4. Global Data Quantum/BasQ - 
+
+ 

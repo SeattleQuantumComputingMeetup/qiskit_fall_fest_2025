@@ -1,0 +1,8 @@
+We will have two Qiskit Coding Challenge Jupyter Notebooks:
+
+1. Beginner Notebook - qiskit_fundamentals_lab.ipynb
+
+2. Intermediate Notebook - divincenzo_criteria_lab.ipynb
+
+
+
