@@ -4,8 +4,14 @@ We will have 4 hackathon prompts:
 
 2. Rensselaer Polytechnic Institute - quantum key distribution (QKD)
 
-3. Mila/Quandela/Autorite des Marches Financiers - 
+3. Mila/Quandela/Autorite des Marches Financiers - finance/option pricing
 
-4. Global Data Quantum/BasQ - 
+4. Global Data Quantum/BasQ - quantum version of a Battleship/BombTester game
 
- 
+Or You can create your own project, on any topic, involving Quantum Computing, that you like
+
+You can even focus on a new business, a startup, that interests you and describe:
+1) the problem that the business solves
+2) the customers who will be interested
+3) how it relates to Quantum Computing 
+4) how you will reach the customers
