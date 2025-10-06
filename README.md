@@ -31,8 +31,10 @@ We have Qiskit Coding Challenge Jupyter Notebooks and Hackathon Prompts for you 
 
 ### How to Submit your work?
 
-Send a direct message in Discord (nhawkins), Meetup, or LinkedIn (natalie-hawkins-seattle) with either a link to a storage location (github, Box, etc) containing your file(s), or attach them to your message.
-
+Submit your work by sending a direct message in Discord (nhawkins), Meetup (Natalie Hawkins), or LinkedIn (natalie-hawkins-seattle) or an email to nrhawkins@gmail.com with ONE of the following, as well as indicating your full name as you wish it to appear on the certificate:
+- a link to a github repo or other storage location, like Box, containing your work
+- attach your file(s) to the message
+  
 ### Final Words
 
 Have fun, enjoy your Quantum Journey, and thanks so much for participating!! 
