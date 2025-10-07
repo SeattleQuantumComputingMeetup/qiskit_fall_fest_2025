@@ -26,7 +26,7 @@ We have Qiskit Coding Challenge Jupyter Notebooks and Hackathon Prompts for you 
 
 | Certificate Type | Criteria for Awarding | 
 | :---------------------- |:----------------------------|
-| Participation Certificate | Submit a completed Qiskit Beginner or Intermediate Notebook by Nov. 3, 10am PT or attend the FF pre-Kickoff on 9/30 at the Northgate Branch of the SPL or the Kickoff on 10/4 in-person at the Montlake Branch of the SPL| 
+| Participation Certificate | Submit a completed Qiskit Beginner or Intermediate Notebook by Nov. 3, 10am PT or attend at least one of the FF in-person meetings: 9/30, 10/4, 10/11, or any other one that might still be added. | 
 | Winning Certificate       | Submit completed versions of the Qiskit Beginner and Intermediate Notebooks or Submit work on one of the Hackathon prompts or on a project of your own design by Nov. 3, 10am PT |
 
 ### How to Submit your work?
