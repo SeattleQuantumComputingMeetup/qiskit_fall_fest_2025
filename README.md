@@ -13,6 +13,7 @@ Sponsored by IBM Quantum, Implemented by the Seattle Quantum Computing Meetup
 | Oct 4 | 12:30-2:00pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/310960237/?eventOrigin=group_upcoming_events" target="_blank">Qiskit Coding Challenges, Hackathon Prompts, Game Day</a> | Montlake Branch, Seattle Public Library |
 | Oct 8 | 6:00-8:00pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/311224681/?eventOrigin=group_upcoming_events" target="_blank">Quantum Computing Monthly Meetup</a> | Stoup Brewing, Capitol Hill |
 | Oct 11 | 1:00-3:00pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/311412887/?eventOrigin=group_upcoming_events" target="_blank">Qiskit Fall Fest Work Party</a> | Montlake Community Center |
+| Oct 18 | 2:00-4:00pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/311497129/?eventOrigin=group_upcoming_events" target="_blank">Qiskit Fall Fest Work Party</a> | Montlake Branch, Seattle Public Library |
 | Oct X (TBD) | ~7:00pm PT | Speaker on Quantum Computing | UW Campus (potentially, TBD) |
 | Nov 3 | 10:00 am PT | Deadline for Coding Challenges and Hackathon Work | submit online | 
 | By Dec 1 | 11:59 pm PT | Participation and Winner Certificates Will Be Awarded | delivered online | 
@@ -34,6 +35,13 @@ We have Qiskit Coding Challenge Jupyter Notebooks and Hackathon Prompts for you 
 Submit your work by sending a direct message in Discord (nhawkins), Meetup (Natalie Hawkins), or LinkedIn (natalie-hawkins-seattle) or an email to nrhawkins@gmail.com with ONE of the following, as well as indicating your full name as you wish it to appear on the certificate:
 - a link to a github repo or other storage location, like Box, containing your work
 - attach your file(s) to the message
+
+### Learning Materials 
+You can check the SeattleQuantumComputingMeetup `getting-started` and `qiskit_fall_fest_2025` repos for the presentation materials from our in-person meetups:
+- 10/4: [Qiskit Fall Fest 2025 Attendee Guide](https://github.com/SeattleQuantumComputingMeetup/qiskit_fall_fest_2025/blob/main/SQCM_Qiskit_Fall_Fest_2025_Attendee_Guide.pdf)
+- 9/30: [Qiskit and Quantum Computing 101 plus](https://github.com/SeattleQuantumComputingMeetup/getting-started/blob/main/Qiskit_and_QuantumComputing_101plus.ipynb)
+- 9/16: [How to Get Started in Quantum Computing](https://github.com/SeattleQuantumComputingMeetup/getting-started/blob/main/How_To_Get_Started_In_Quantum_Computing.ipynb)
+- 9/16: [Poster - How to Get Started in Quantum Computing](https://github.com/SeattleQuantumComputingMeetup/getting-started/blob/main/poster_How_to_Get_Started_with_Quantum_Computing.pdf)
   
 ### Final Words
 
