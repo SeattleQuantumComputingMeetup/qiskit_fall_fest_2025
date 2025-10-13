@@ -37,7 +37,7 @@ Submit your work by sending a direct message in Discord (nhawkins), Meetup (Nata
 - attach your file(s) to the message
 
 ### Learning Materials 
-You can check the SeattleQuantumComputingMeetup `getting-started` and `qiskit_fall_fest_2025` repos for the presentation materials from our in-person meetups:
+You can check the SeattleQuantumComputingMeetup `sqcm_education_and_getting_started` and `qiskit_fall_fest_2025` repos for the presentation materials from our in-person meetups:
 - 10/4: [Qiskit Fall Fest 2025 Attendee Guide](https://github.com/SeattleQuantumComputingMeetup/qiskit_fall_fest_2025/blob/main/SQCM_Qiskit_Fall_Fest_2025_Attendee_Guide.pdf)
 - 9/30: [Qiskit and Quantum Computing 101 plus](https://github.com/SeattleQuantumComputingMeetup/getting-started/blob/main/Qiskit_and_QuantumComputing_101plus.ipynb)
 - 9/16: [How to Get Started in Quantum Computing](https://github.com/SeattleQuantumComputingMeetup/getting-started/blob/main/How_To_Get_Started_In_Quantum_Computing.ipynb)
