@@ -13,8 +13,8 @@ Sponsored by IBM Quantum, Implemented by the Seattle Quantum Computing Meetup
 | Oct 4 | 12:30-2:00pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/310960237/?eventOrigin=group_upcoming_events" target="_blank">Qiskit Coding Challenges, Hackathon Prompts, Game Day</a> | Montlake Branch, Seattle Public Library |
 | Oct 8 | 6:00-8:00pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/311224681/?eventOrigin=group_upcoming_events" target="_blank">Quantum Computing Monthly Meetup</a> | Stoup Brewing, Capitol Hill |
 | Oct 11 | 1:00-3:00pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/311412887/?eventOrigin=group_upcoming_events" target="_blank">Qiskit Fall Fest Work Party</a> | Montlake Community Center |
-| Oct 18 | 2:00-4:00pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/311497129/?eventOrigin=group_upcoming_events" target="_blank">Qiskit Fall Fest Work Party</a> | Montlake Branch, Seattle Public Library |
-| Oct X (TBD) | ~7:00pm PT | Speaker on Quantum Computing | UW Campus (potentially, TBD) |
+| Oct 18 | 2:00-4:00pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/311497129/?eventOrigin=group_upcoming_events" target="_blank">Qiskit Fall Fest, Physics Nobel, and Quantum Applications</a> | Montlake Branch, Seattle Public Library |
+| Oct 25 | 3:30-5:30pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/311606105/?eventOrigin=group_upcoming_events" target="_blank">Qiskit Challenge Beginner Notebook</a> | Lake City Branch, Seattle Public Library |
 | Nov 3 | 10:00 am PT | Deadline for Coding Challenges and Hackathon Work | submit online | 
 | By Dec 1 | 11:59 pm PT | Participation and Winner Certificates Will Be Awarded | delivered online | 
 
