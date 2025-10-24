@@ -13,10 +13,13 @@ Sponsored by IBM Quantum, Implemented by the Seattle Quantum Computing Meetup
 | Oct 4 | 12:30-2:00pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/310960237/?eventOrigin=group_upcoming_events" target="_blank">Qiskit Coding Challenges, Hackathon Prompts, Game Day</a> | Montlake Branch, Seattle Public Library |
 | Oct 8 | 6:00-8:00pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/311224681/?eventOrigin=group_upcoming_events" target="_blank">Quantum Computing Monthly Meetup</a> | Stoup Brewing, Capitol Hill |
 | Oct 11 | 1:00-3:00pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/311412887/?eventOrigin=group_upcoming_events" target="_blank">Qiskit Fall Fest Work Party</a> | Montlake Community Center |
-| Oct 18 | 2:00-4:00pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/311497129/?eventOrigin=group_upcoming_events" target="_blank">Qiskit Fall Fest Work Party</a> | Montlake Branch, Seattle Public Library |
-| Oct X (TBD) | ~7:00pm PT | Speaker on Quantum Computing | UW Campus (potentially, TBD) |
-| Nov 3 | 10:00 am PT | Deadline for Coding Challenges and Hackathon Work | submit online | 
-| By Dec 1 | 11:59 pm PT | Participation and Winner Certificates Will Be Awarded | delivered online | 
+| Oct 18 | 2:00-4:00pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/311497129/?eventOrigin=group_upcoming_events" target="_blank">Qiskit Fall Fest, Physics Nobel, and Quantum Applications</a> | Montlake Branch, Seattle Public Library |
+| Oct 25 | 3:30-5:30pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/311606105/?eventOrigin=group_upcoming_events" target="_blank">Qiskit Challenge Beginner Notebook</a> | Lake City Branch, Seattle Public Library |
+| Oct 28 | 6:00-7:30pm PT | <a href="https://www.meetup.com/seattle-quantum-computing-meetup/events/311637046/?eventOrigin=group_upcoming_events" target="_blank">Qiskit Challenge Beginner Notebook</a> | Zoom, RSVP on Meetup to get/see the link |
+| Nov 19 | 8:00 am - 3:30 pm PT| <a href="https://luma.com/sxwd8icd" target="_blank">TechAlliance Policy Matters Summit: The Quantum Frontier</a> | South Seattle, tickets $150 | 
+| Nov 24 | 10:00 am PT | Deadline (Extended!!!) for Coding Challenges and Hackathon Work | submit online | 
+| Nov 25 | 6:00 am PT | Closing Ceremony, by Serena Godwin from IBM Quantum | Crowdcast/Zoom, will share link when it becomes available | 
+| Up to Early Dec | 11:59 pm PT | Participation and Winner Certificates Will Be Awarded | delivered online, asap after the requirements are satisfied | 
 
 ### How it Works:
 You can earn a certificate from IBM Quantum while gaining skills in Quantum Computing using Qiskit.
